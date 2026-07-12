@@ -100,6 +100,3 @@ Model performance is evaluated using:
 
 ---
 
-## 📜 License
-
-This project is intended for educational and learning purposes.
